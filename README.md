@@ -19,6 +19,6 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |   |
-| Descripción  |   |
-|  Fecha de Carga |   |
+| Nombre  |  Tarea 4 Cambio de Pantallas |
+| Descripción  | El cambio de pantallas en Wear OS es una característica clave que permite a los usuarios personalizar su experiencia con los dispositivos WearOs.  |
+|  Fecha de Carga | 24/05/23  |
